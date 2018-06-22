@@ -27,3 +27,7 @@
 
 * We use [Catch2](https://github.com/catchorg/Catch2) for unit-test
 * [Tutorial](https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top)
+
+## Notice
+
+ * 20130910 박민서는 c++ 에 익숙하지 않아서 파이썬으로 BinarySearchTree 알고리즘을 짰습니다.
